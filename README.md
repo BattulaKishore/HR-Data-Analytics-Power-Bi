@@ -42,6 +42,7 @@ In this project the following Queries are implemented:
 9) Leave balance analysis
 
 4) TOOLS & TECHNOLOGIES:
+   
 -->Power BI:For data visualization and dashboard creation.
 
 -->DAX (Data Analysis Expressions): For creating custom metrics, KPIs, and performing data analysis.
